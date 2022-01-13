@@ -1,0 +1,13 @@
+﻿body {
+font-family:Arial;
+color:darkblue;
+
+}
+
+img {
+    block-size:600px;
+}
+label {
+    width: 120px;
+    display: inline-block;
+}
